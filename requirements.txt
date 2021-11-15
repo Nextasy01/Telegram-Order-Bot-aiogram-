@@ -1,6 +1,2 @@
 aiogram
 asyncio
-typing
-csv
-re
-os
