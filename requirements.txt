@@ -1,6 +1,5 @@
 aiogram
 asyncio
-logging
 typing
 csv
 re
