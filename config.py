@@ -4,9 +4,6 @@ from aiogram.utils.markdown import text
 from aiogram.utils.emoji import emojize
 from aiogram.utils.callback_data import CallbackData
 
-TOKEN = '1800708573:AAEzTehCHYSDdg3IEnThn6sjqL3JjC0LyPE'
-MY_ID = 399609701
-
 posts_cb = CallbackData('post', 'action', 'id', 'tablename')
 
 bot = Bot(token=TOKEN)
